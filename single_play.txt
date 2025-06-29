@@ -1,0 +1,1678 @@
+
+TURN 1:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   6   6   6   6   6   6 |
+  0  |                        |  0  
+      |   6   6   6   6   6   6 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 1
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   7   7   7   7   7   0 |
+  1  |                        |  0  
+      |   6   6   6   6   6   6 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [0, 0] -> [0, 1]
+Player gets an **extra turn**!
+
+TURN 1:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   7   7   7   7   7   0 |
+  1  |                        |  0  
+      |   6   6   6   6   6   6 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   7   7   7   7   0 |
+  2  |                        |  0  
+      |   7   7   7   7   7   7 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [0, 1] -> [0, 2]
+
+TURN 2:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   7   7   7   7   0 |
+  2  |                        |  0  
+      |   7   7   7   7   7   7 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   8   8   8   8   1 |
+  2  |                        |  1  
+      |   7   7   7   7   7   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [0, 2] -> [1, 2]
+
+TURN 3:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   8   8   8   8   1 |
+  2  |                        |  1  
+      |   7   7   7   7   7   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   8   8   8   8   1 |
+  3  |                        |  1  
+      |   7   7   7   7   7   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [1, 2] -> [1, 3]
+Player gets an **extra turn**!
+
+TURN 3:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   8   8   8   8   1 |
+  3  |                        |  1  
+      |   7   7   7   7   7   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   9   0   8   8   1 |
+  4  |                        |  1  
+      |   8   8   8   8   8   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [1, 3] -> [1, 4]
+
+TURN 4:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   9   0   8   8   1 |
+  4  |                        |  1  
+      |   8   8   8   8   8   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2  10   1   9   9   2 |
+  4  |                        |  2  
+      |   8   8   8   8   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [1, 4] -> [2, 4]
+
+TURN 5:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2  10   1   9   9   2 |
+  4  |                        |  2  
+      |   8   8   8   8   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  10   1   9   9   2 |
+  5  |                        |  2  
+      |   9   8   8   8   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [2, 4] -> [2, 5]
+
+TURN 6:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  10   1   9   9   2 |
+  5  |                        |  2  
+      |   9   8   8   8   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  10   1   9   9   2 |
+  5  |                        |  3  
+      |   9   8   8   8   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [2, 5] -> [3, 5]
+Player gets an **extra turn**!
+
+TURN 6:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  10   1   9   9   2 |
+  5  |                        |  3  
+      |   9   8   8   8   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  11   2  10  10   3 |
+  5  |                        |  4  
+      |   9   8   8   0   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [3, 5] -> [4, 5]
+
+TURN 7:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0  11   2  10  10   3 |
+  5  |                        |  4  
+      |   9   8   8   0   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  11   4 |
+  6  |                        |  4  
+      |  10   9   9   1   2   2 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [4, 5] -> [4, 6]
+
+TURN 8:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  11   4 |
+  6  |                        |  4  
+      |  10   9   9   1   2   2 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  11   4 |
+  6  |                        |  5  
+      |  10   9   9   1   0   3 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [4, 6] -> [5, 6]
+Player gets an **extra turn**!
+
+TURN 8:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  11   4 |
+  6  |                        |  5  
+      |  10   9   9   1   0   3 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  12   5 |
+  6  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [5, 6] -> [6, 6]
+
+TURN 9:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2  11  12   5 |
+  6  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2  11  12   5 |
+  7  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 6] -> [6, 7]
+Player gets an **extra turn**!
+
+TURN 9:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2  11  12   5 |
+  7  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 1
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   3  12  13   0 |
+  8  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 7] -> [6, 8]
+Player gets an **extra turn**!
+
+TURN 9:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   3  12  13   0 |
+  8  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2   2   0  12  13   0 |
+  9  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 8] -> [6, 9]
+Player gets an **extra turn**!
+
+TURN 9:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2   2   0  12  13   0 |
+  9  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   3   0   0  12  13   0 |
+ 10  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 9] -> [6, 10]
+Player gets an **extra turn**!
+
+TURN 9:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   3   0   0  12  13   0 |
+ 10  |                        |  6  
+      |  10   9   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0  12  13   0 |
+ 11  |                        |  6  
+      |  11  10   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 10] -> [6, 11]
+
+TURN 10:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0  12  13   0 |
+ 11  |                        |  6  
+      |  11  10   9   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0  12  13   0 |
+ 11  |                        |  7  
+      |  11  10   9   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [6, 11] -> [7, 11]
+
+TURN 11:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0  12  13   0 |
+ 11  |                        |  7  
+      |  11  10   9   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  7  
+      |  12  11  10   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [7, 11] -> [7, 12]
+
+TURN 12:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  7  
+      |  12  11  10   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  8  
+      |  12  11  10   1   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [7, 12] -> [8, 12]
+Player gets an **extra turn**!
+
+TURN 12:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  8  
+      |  12  11  10   1   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  9  
+      |  12  11  10   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [8, 12] -> [9, 12]
+Player gets an **extra turn**!
+
+TURN 12:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  9  
+      |  12  11  10   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  10 
+      |  12  11  10   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [9, 12] -> [10, 12]
+Player gets an **extra turn**!
+
+TURN 12:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   0  14   1 |
+ 12  |                        |  10 
+      |  12  11  10   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   0  14   1 |
+ 12  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [10, 12] -> [12, 12]
+
+TURN 13:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   0  14   1 |
+ 12  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0  14   1 |
+ 13  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [12, 12] -> [12, 13]
+Player gets an **extra turn**!
+
+TURN 13:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0  14   1 |
+ 13  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  14   1 |
+ 14  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [12, 13] -> [12, 14]
+
+TURN 14:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  14   1 |
+ 14  |                        |  12 
+      |  12  11  10   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   1  15   2 |
+ 14  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [12, 14] -> [13, 14]
+
+TURN 15:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   1  15   2 |
+ 14  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   1   1  15   2 |
+ 15  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [13, 14] -> [13, 15]
+Player gets an **extra turn**!
+
+TURN 15:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   1   1  15   2 |
+ 15  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   1  15   2 |
+ 16  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [13, 15] -> [13, 16]
+Player gets an **extra turn**!
+
+TURN 15:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   1  15   2 |
+ 16  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   1  15   2 |
+ 17  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [13, 16] -> [13, 17]
+Player gets an **extra turn**!
+
+TURN 15:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   1  15   2 |
+ 17  |                        |  13 
+      |  12  11   0   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  13 
+      |  12  11   0   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [13, 17] -> [13, 19]
+
+TURN 16:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  13 
+      |  12  11   0   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  14 
+      |  12  11   0   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [13, 19] -> [14, 19]
+Player gets an **extra turn**!
+
+TURN 16:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  14 
+      |  12  11   0   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  15 
+      |  12  11   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [14, 19] -> [15, 19]
+
+TURN 17:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  15   2 |
+ 19  |                        |  15 
+      |  12  11   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  15   2 |
+ 20  |                        |  15 
+      |  12  11   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [15, 19] -> [15, 20]
+
+TURN 18:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  15   2 |
+ 20  |                        |  15 
+      |  12  11   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 2
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   1  16   3 |
+ 20  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [15, 20] -> [16, 20]
+
+TURN 19:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   1   1  16   3 |
+ 20  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   1   1  16   3 |
+ 21  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [16, 20] -> [16, 21]
+Player gets an **extra turn**!
+
+TURN 19:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   1   1  16   3 |
+ 21  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   1  16   3 |
+ 22  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [16, 21] -> [16, 22]
+Player gets an **extra turn**!
+
+TURN 19:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   1   1  16   3 |
+ 22  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   1  16   3 |
+ 23  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [16, 22] -> [16, 23]
+Player gets an **extra turn**!
+
+TURN 19:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   1  16   3 |
+ 23  |                        |  16 
+      |  12   0   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  16 
+      |  12   0   1   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [16, 23] -> [16, 25]
+
+TURN 20:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  16 
+      |  12   0   1   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  17 
+      |  12   0   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [16, 25] -> [17, 25]
+Player gets an **extra turn**!
+
+TURN 20:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  17 
+      |  12   0   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  18 
+      |  12   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [17, 25] -> [18, 25]
+
+TURN 21:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  16   3 |
+ 25  |                        |  18 
+      |  12   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 1
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2  17   0 |
+ 26  |                        |  18 
+      |  12   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [18, 25] -> [18, 26]
+
+TURN 22:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2  17   0 |
+ 26  |                        |  18 
+      |  12   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2  17   0 |
+ 26  |                        |  19 
+      |  12   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [18, 26] -> [19, 26]
+
+TURN 23:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2  17   0 |
+ 26  |                        |  19 
+      |  12   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0  17   0 |
+ 27  |                        |  19 
+      |  12   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [19, 26] -> [19, 27]
+
+TURN 24:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0  17   0 |
+ 27  |                        |  19 
+      |  12   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 1
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   2   1  18   1 |
+ 27  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [19, 27] -> [20, 27]
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   2   1  18   1 |
+ 27  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   2   1  18   1 |
+ 28  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 27] -> [20, 28]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   2   1  18   1 |
+ 28  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2   1  18   1 |
+ 29  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 28] -> [20, 29]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   2   1  18   1 |
+ 29  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   1  18   1 |
+ 30  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 29] -> [20, 30]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   1  18   1 |
+ 30  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   0   1  18   1 |
+ 31  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 30] -> [20, 31]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   0   1  18   1 |
+ 31  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   0   1  18   1 |
+ 32  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 31] -> [20, 32]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   0   1  18   1 |
+ 32  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   0   1  18   1 |
+ 33  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 32] -> [20, 33]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   0   1  18   1 |
+ 33  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  18   1 |
+ 34  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 33] -> [20, 34]
+Player gets an **extra turn**!
+
+TURN 25:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1  18   1 |
+ 34  |                        |  20 
+      |   0   1   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  20 
+      |   0   1   1   0   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 34] -> [20, 36]
+
+TURN 26:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  20 
+      |   0   1   1   0   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  21 
+      |   0   1   1   0   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [20, 36] -> [21, 36]
+Player gets an **extra turn**!
+
+TURN 26:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  21 
+      |   0   1   1   0   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  22 
+      |   0   1   1   0   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [21, 36] -> [22, 36]
+Player gets an **extra turn**!
+
+TURN 26:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  22 
+      |   0   1   1   0   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  23 
+      |   0   1   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [22, 36] -> [23, 36]
+Player gets an **extra turn**!
+
+TURN 26:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  23 
+      |   0   1   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  24 
+      |   0   1   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [23, 36] -> [24, 36]
+
+TURN 27:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0  18   1 |
+ 36  |                        |  24 
+      |   0   1   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 2
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2   2   2   2   1   2 |
+ 38  |                        |  24 
+      |   1   2   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [24, 36] -> [24, 38]
+Player gets an **extra turn**!
+
+TURN 27:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   2   2   2   2   1   2 |
+ 38  |                        |  24 
+      |   1   2   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   3   0   2   2   1   2 |
+ 39  |                        |  24 
+      |   1   2   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [24, 38] -> [24, 39]
+Player gets an **extra turn**!
+
+TURN 27:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   3   0   2   2   1   2 |
+ 39  |                        |  24 
+      |   1   2   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  24 
+      |   2   3   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [24, 39] -> [24, 40]
+
+TURN 28:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  24 
+      |   2   3   1   1   1   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  25 
+      |   2   3   1   1   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [24, 40] -> [25, 40]
+Player gets an **extra turn**!
+
+TURN 28:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  25 
+      |   2   3   1   1   1   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  26 
+      |   2   3   1   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [25, 40] -> [26, 40]
+Player gets an **extra turn**!
+
+TURN 28:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  26 
+      |   2   3   1   1   0   1 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  27 
+      |   2   3   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [26, 40] -> [27, 40]
+Player gets an **extra turn**!
+
+TURN 28:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  27 
+      |   2   3   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [27, 40] -> [28, 40]
+
+TURN 29:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   2   2   1   2 |
+ 40  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 4
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   0   2   1   2 |
+ 41  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 40] -> [28, 41]
+Player gets an **extra turn**!
+
+TURN 29:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   1   0   2   1   2 |
+ 41  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   0   2   1   2 |
+ 42  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 41] -> [28, 42]
+Player gets an **extra turn**!
+
+TURN 29:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   1   0   2   1   2 |
+ 42  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 5
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   0   2   1   2 |
+ 43  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 42] -> [28, 43]
+Player gets an **extra turn**!
+
+TURN 29:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   1   0   0   2   1   2 |
+ 43  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 6
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2   1   2 |
+ 44  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 43] -> [28, 44]
+Player gets an **extra turn**!
+
+TURN 29:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   2   1   2 |
+ 44  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0   1   2 |
+ 45  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 44] -> [28, 45]
+
+TURN 30:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   1   0   1   2 |
+ 45  |                        |  28 
+      |   2   3   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   1   2 |
+ 45  |                        |  30 
+      |   2   3   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [28, 45] -> [30, 45]
+
+TURN 31:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   1   2 |
+ 45  |                        |  30 
+      |   2   3   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 1
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   2   0 |
+ 46  |                        |  30 
+      |   2   3   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [30, 45] -> [30, 46]
+
+TURN 32:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   2   0 |
+ 46  |                        |  30 
+      |   2   3   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 2
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   2   0 |
+ 46  |                        |  31 
+      |   2   0   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [30, 46] -> [31, 46]
+
+TURN 33:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   2   0 |
+ 46  |                        |  31 
+      |   2   0   1   1   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 2
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1   0   0 |
+ 48  |                        |  31 
+      |   2   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [31, 46] -> [31, 48]
+
+TURN 34:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1   0   0 |
+ 48  |                        |  31 
+      |   2   0   1   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+StrategyPlayer's turn.
+StrategyPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1   0   0 |
+ 48  |                        |  32 
+      |   2   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [31, 48] -> [32, 48]
+
+TURN 35:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   1   0   0 |
+ 48  |                        |  32 
+      |   2   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+AmazingPlayer's turn.
+AmazingPlayer chooses pit 3
+Resulting board:
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   0   0 |
+ 49  |                        |  32 
+      |   2   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Store update: [32, 48] -> [32, 49]
+
+--- GAME OVER ---
+          6   5   4   3   2   1   <-- AmazingPlayer
+      +------------------------+
+      |   0   0   0   0   0   0 |
+ 49  |                        |  32 
+      |   2   0   0   0   0   0 |
+      +------------------------+
+          1   2   3   4   5   6   <-- StrategyPlayer
+
+Amazing Player wins!

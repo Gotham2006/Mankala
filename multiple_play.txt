@@ -1,0 +1,18 @@
+=== Kalah Game Statistics ===
+Total Rounds Played: 20
+
+Strategy Player:
+  Wins: 7 (35.0%)
+  Average Score: 15.70
+  Median Score: 14.50
+  Highest Score: 32
+  Lowest Score: 0
+
+Amazing Player:
+  Wins: 12 (60.0%)
+  Average Score: 17.70
+  Median Score: 16.00
+  Highest Score: 49
+  Lowest Score: 2
+
+Ties: 1 (5.0%)
